@@ -26,7 +26,7 @@ public class CalculatorMain {
             case "*": // 곱하기
                 result = new Multiplier().multiply(firstNum, secondNum);
                 break;
-            case "%":
+            case "%":p
                 result = new Divider().divid(firstNum, secondNum);
                 break;
 
