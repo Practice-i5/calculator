@@ -9,7 +9,7 @@ public class AdderTests {
     @Test
     @DisplayName("1과 2를 더한 결과가 3인지 확인")
     public void testAdd() {
-
+//
         //given
         int first = 1;
         int second = 2;
