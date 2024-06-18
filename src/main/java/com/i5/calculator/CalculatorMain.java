@@ -15,6 +15,7 @@ public class CalculatorMain {
         // dd
         System.out.print("[+-*%] === 원하는 계산을 선택해주세요(나누기는 %로 입력해주세요)");
 
+
         switch (stdIn.nextLine()) {
             case "+": // 더하기
                 result = new Adder().add(firstNum, secondNum);
