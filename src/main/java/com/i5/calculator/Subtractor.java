@@ -1,7 +1,7 @@
 package com.i5.calculator;
 
 import java.util.Scanner;
-
+//PRACTICE
 public class Subtractor {
     public static int subtract(int firstNumber, int secondNumber) {
 
