@@ -12,12 +12,12 @@ class ModerTests {
     public void testMod() {
         // given
         int first = 2;
-        int second = 2;
+        int second = 0;
 
         // when
         int result = new Moder().mod(first, second);
 
         // then
-        Assertions.assertEquals(0, result);
+        Assertions.assertEquals(-1, result);
     }
 }
