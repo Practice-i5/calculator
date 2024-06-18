@@ -13,7 +13,8 @@ public class Moder {
             System.out.println("secondNum가 0입니다.");
             return -1;
         }
-        
+
+
         return result;
     }
 }
