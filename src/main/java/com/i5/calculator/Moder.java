@@ -14,7 +14,6 @@ public class Moder {
             return -1;
         }
 
-
         return result;
     }
 }
