@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Adder {
     public int add(int first, int secound) {
+
         return first + secound;
     }
 
